@@ -35,8 +35,8 @@ A Spring Boot application for managing Foreign Exchange (FX) deals in a data war
 
 **Clone the Repository**
 ```bash
-git clone https://github.com/TANTOUNI-MED/fx-deals-warehouse.git
-cd fx-deals-warehouse
+git clone https://github.com/TANTOUNI-MED/fxDeals.git
+cd fxDeals
 ```
 
 **Build and Run**
